@@ -17,7 +17,9 @@ About uss
 #
 ### 🎐 Me:
 > :warning: **Warning:** I am known as a professional idiot
+
 > :memo: **Note:** I like Deisigning alot like segsss ヾ(•ω•`)o
+
 > :bulb: **Tip:** I like Anime >_< lots of lots of Anime
 
 
