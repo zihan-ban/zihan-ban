@@ -10,7 +10,7 @@ About uss
 	<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
 </head>
 <body>
-
+ere's a sentence with a footnote. [^1]
 <h1 align="center">Wassup peoples of earth 🌍</h1>
 
 <h4 align="center" script>You found my Github repositories....NICE HEHE :bowtie: </h4>
@@ -30,6 +30,8 @@ About uss
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
+
+
 
 #
 ### 📩 Social Media:
