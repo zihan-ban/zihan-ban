@@ -26,14 +26,9 @@ About uss
 <img align="left" alt="js" width="64px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="discord.js" width="64px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="node.js" width="64px" src="https://i.imgur.com/tYLFZBh.png" /> 
-<img align="left" alt="photoshop" width="64px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
+<img align="left" alt="photoshop" width="64px" src="https://cdn.lordicon.com/hnvrjtda.json" /> <br />
 
-<script src="https://cdn.lordicon.com/pzdvqjsp.js"></script>
-<lord-icon
-    src="https://cdn.lordicon.com/hnvrjtda.json"
-    trigger="hover"
-    style="width:250px;height:250px">
-</lord-icon>
+
 
 #
 ### 📩 Social Media:
