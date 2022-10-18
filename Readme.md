@@ -13,7 +13,7 @@ About uss
 
 <h1 align="center">Wassup peoples of earth 🌍</h1>
 
-<h4 align="center" script>You found my Github repositories....NICE HEHE</h4>
+<h4 align="center" script>You found my Github repositories....NICE HEHE :bowtie: </h4>
 	
 #
 
