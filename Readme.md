@@ -26,9 +26,7 @@ About uss
 <img align="left" alt="js" width="64px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="discord.js" width="64px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="node.js" width="64px" src="https://i.imgur.com/tYLFZBh.png" /> 
-<img align="left" alt="photoshop" width="64px" src="https://cdn.lordicon.com/hnvrjtda.json" /> <br />
-
-
+<img align="left" alt="photoshop" width="64px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
 
 #
 ### 📩 Social Media:
@@ -60,13 +58,6 @@ try {
     console.log(error)
 };
 ```
-
----
-
-<h1 align='center'>Cool Stats</h1>
-
-<div align ="center">
-<img src="https://metrics.lecoq.io/Towsif12?template=classic&activity=1&isocalendar=1&languages=1&followup=1&isocalendar.duration=half-year&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FDhaka&config.animated=true">
 </div>
 </body>
 </html>
