@@ -34,6 +34,8 @@ About uss
  </a>
   
 <br/>
+
+![Discord](https://popcat.deta.dev/884816166026084432)
   
 #
 <h3 align="center">💤</h3>
