@@ -9,7 +9,7 @@ About uss
 ### 🎐 Me:
 > :warning: **Warning:** I am known as a professional idiot
 
-> :memo: **Note:** I like Deisigning alot like segsss ヾ(•ω•`)o
+> :memo: **Note:** I like Deisigning alot ヾ(•ω•`)o
 
 > :bulb: **Tip:** I like Anime >_< lots of lots of Anime
 
@@ -31,6 +31,9 @@ About uss
  </a>
  <a align="left" href="https://www.instagram.com/designervaia/">
     <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png" alt="InstaGRAAAAAAAAAAAAAAAAAAAAAAAAAAAm" width="40"/>
+ </a>
+ <a href="https://www.buymeacoffee.com/zihannai">
+ <img src="https://img.buymeacoffee.com/button-api/?text=BUY ME COFFEE&emoji=&slug=zihannai&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" />
  </a>
   
 <br/>
