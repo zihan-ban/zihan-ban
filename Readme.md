@@ -40,7 +40,7 @@ About uss
 <br/>
 <br/>
 
-![]([https://popcat.deta.dev/884816166026084432](https://i.imgur.com/X0bcsne.gif))
+![]([[https://popcat.deta.dev/884816166026084432](https://i.imgur.com/X0bcsne.gif](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rotating_earth_%28large%29.gif/200px-Rotating_earth_%28large%29.gif)))
   
 #
 <h3 align="center">💤</h3>
