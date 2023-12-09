@@ -40,7 +40,7 @@ About uss
 <br/>
 <br/>
 
-![Discord](https://popcat.deta.dev/884816166026084432)
+![]([https://popcat.deta.dev/884816166026084432](https://i.imgur.com/X0bcsne.gif))
   
 #
 <h3 align="center">💤</h3>
