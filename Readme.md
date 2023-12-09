@@ -15,7 +15,7 @@ About uss
 
 
 ### 💾 Languages And Stuff:
-<img align="left" alt="Visual Studio Code" width="64px" src="https://i.imgur.com/LwSdAlE.png" />
+<img align="left" alt="Visual Studio Code" src="[https://i.imgur.com/LwSdAlE.png](https://i.imgur.com/X0bcsne.gif)" />
 <img align="left" alt="js" width="64px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="discord.js" width="64px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="node.js" width="64px" src="https://i.imgur.com/tYLFZBh.png" /> 
